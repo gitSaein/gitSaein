@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
  <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=amazonecs&logoColor=white" />
  <img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=amazoneks&logoColor=white" />
- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazones3&logoColor=white" />
+ <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" />
  <img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=amazoneks&logoColor=white" />
  
 
